@@ -21,8 +21,7 @@ TODO: Add the citation information for the paper once available.
 Acknowledgments
 ---------------
 
-Co‐financed by the European Regional Development Fund of the European Union and Greek national funds through the Operational Program Competitiveness, Entrepreneurship and Innovation, under the call RESEARCH – CREATE – INNOVATE (project code:T2EDK- 02800)
-
+Financed by the European Union - NextGenerationEU through Recovery and Resilience Facility, Greece 2.0, under the call RESEARCH – CREATE – INNOVATE (project code:TAEDK-06185 / Τ2EDK- 02800)
 ---
 
 For any inquiries or issues related to this repository, please contact [Panagiotis Anagnostou](mailto:panagno@uth.gr), or create an issue in the repository.
