@@ -22,6 +22,7 @@ Acknowledgments
 ---------------
 
 Financed by the European Union - NextGenerationEU through Recovery and Resilience Facility, Greece 2.0, under the call RESEARCH – CREATE – INNOVATE (project code:TAEDK-06185 / Τ2EDK- 02800)
+
 ---
 
 For any inquiries or issues related to this repository, please contact [Panagiotis Anagnostou](mailto:panagno@uth.gr), or create an issue in the repository.
