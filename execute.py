@@ -21,7 +21,7 @@ filenames = [
     'scRNAseq-MarquesBrainData.h5',
     'scRNAseq-ShekharRetinaData.h5',
     'scRNAseq-ZeiselBrainData.h5',
-    # 'scRNAseq-ZhaoImmuneLiverData.h5',
+    # 'scRNAseq-ZhaoImmuneLiverData.h5', # Big dataset over 100MB GitHub limit
     'scRNAseq-ZilionisLungData-Mouse.h5',
 ]
 
