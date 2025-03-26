@@ -1,7 +1,7 @@
 Projection Based Augmentation for NN Ensemble Classification (PANN-EC) 
 =================================================================================
 
-This repository contains the code and data related to the paper titled "Boosting Neural Network Performance for scRNA-seq Data through Random Projections." The paper explores the use of random projections to enhance the performance of neural networks when dealing with single-cell RNA sequencing (scRNA-seq) data. This Markdown file serves as a guide to the repository structure and provides placeholders for additional information that will be added.
+This repository contains the code and data related to the paper titled "Boosting Neural Network Performance for scRNA-seq Data through Random Projections." The paper explores the use of Random Projections in combination with PCA to enhance the performance of Neural Networks when dealing with "small n large p" tabular data. The "small n, large p" problem occurs when the number of samples "n" is significantly smaller than the number of features "p", leading to difficulties in accurately identifying meaningful underline data structures due to overfitting and statistical instability. This Markdown file serves as a guide to the repository structure and provides placeholders for additional information that will be added.
 
 Usage
 -----
